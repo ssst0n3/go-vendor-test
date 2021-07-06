@@ -11,6 +11,10 @@ func main() {
 }
 
 func source() {
+	a()
+}
+
+func a() {
     sink()
 }
 
